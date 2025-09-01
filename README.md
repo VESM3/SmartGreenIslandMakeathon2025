@@ -15,7 +15,7 @@ Takk fyrir okkur!
 #### Hvað er Makeathon?
 Heitið „MAKEATHON“ kemur frá samsetningunni af „MAKE“ og „MARATHON“. Þetta er viðburður þar sem þátttakendur í liðum (úr ólíkum fræðasviðum) verja nokkrum dögum saman í að skapa, forrita, þróa, hanna og kynna hugbúnaðar- og vélbúnaðarverkefni (frumgerð) sem þeir byggja frá grunni byggt á vandamáli sett fram af [styrktaraðilum](https://www.itq.de/wp-content/uploads/2025/03/SMART_GREEN_ISLAND_MAKEATHON_2025_Overview_Industry_Challenges.pdf) eða innan þátttökuliðanna sjálfra.
 
-<img src="sm4.jpg" width="300" height="auto"><img src="sm5.jpg" width="300" height="auto"><img src="sm3.jpg" width="300" height="auto">
+<img src="sm4.jpg" width="300" height="auto"><img src="sm3.jpg" width="300" height="auto"><img src="sm5.jpg" width="300" height="auto">
 <img src="sm2.jpg" width="300" height="auto"><img src="sm6.jpg" width="300" height="auto">
 
 
