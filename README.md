@@ -1,4 +1,4 @@
-# Smart Green Island Makeathon
+# Smart Green Island Makeathon 2025
 
 <img src="sm1.jpg" width="100%" height="auto">
 
